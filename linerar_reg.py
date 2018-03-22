@@ -8,7 +8,6 @@ Find best b and m values
 Minimize loss/error and find best fit line for data and  calculate model confidence
 Draw the graph
 """
-
 import numpy as np
 from statistics import mean
 import matplotlib.pyplot as plt
